@@ -1,4 +1,4 @@
-# LM_Scripts_Python
+# Machine_Learning_Python
 A repository to hold all files for the Python version of the linear modeling scripts assignment
 
 Python notebook created in MyBinder:
